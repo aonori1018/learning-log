@@ -1,8 +1,17 @@
-# learning-log
+# CS50 学習ログ
 
-# CS50 学習ノート
+CS50x 2022 の学習記録です。
+解答コードは含めず、考え方・つまずき・気づきのみ記載しています。
+（Academic Honesty のポリシーを守るため）
 
-CS50 (2022) の学習記録です。解答コードは含まず、気づきや学びのみ記載しています。
+## 進捗
 
-## 目次
-- [Problem Set 1: Mario](pset1-mario.md)
+| Week | 課題 | 完了日 | 学んだこと |
+|---|---|---|---|
+| 1 | [Mario](week1/mario.md) | 2026-10-17 | ネストしたループ、入力検証 |
+| 1 | [Credit](week1/credit.md) | 2026-10-17 | 桁の分解、アルゴリズムの手順化 |
+| 2 | [Scrabble](week2/scrabble.md) | 2026-10-18 | 配列、文字と整数の関係 |
+
+## 環境
+- WSL Ubuntu + VSCode
+- CS50 Library（`get_int` など）
