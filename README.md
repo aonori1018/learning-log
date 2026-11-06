@@ -12,6 +12,7 @@ CS50x 2022 の学習記録です。
 | 1 | [Credit](pset1-credit.md) | 2026-10-17 | 約4時間 |
 | 2 | [Scrabble](pset2-scrabble.md) | 2026-10-18 | 約1時間 |
 | 2 | [readability](pset2-readability.md) | 2026-11-01 | 約1時間半 |
+| 2 | [substitution](pset2-substitution.md) | 2026-11-06 | 約3時間半 |
 
 ## 環境
 - WSL Ubuntu + VSCode
