@@ -43,9 +43,3 @@
 - push・fetch・pull の前後で、「手元の付箋」「手元の記録 `origin/〜`」「GitHub の付箋」の3つがどこを指しているかを確かめる
 - ブランチの感覚はまだつかみきれていないので、CS50 の課題の管理で使いながら慣れる
 - 秘密を push してしまったら、履歴から消すだけでなく、パスワード自体を変える
-
-## 資料の注意（日本語訳）
-- `git checkout` の一部は、Git 2.23 から `git switch`・`git restore` に分かれた
-- `git diff <revision> <filename>` は、そのコミットと作業中のフォルダを比べる
-- `git pull` は「fetch して merge」だが、設定（`pull.rebase`）で rebase にもなる
-- `stash` は「一時的に削除」ではなく、特別なコミットとして保存してから作業中のフォルダを戻す
